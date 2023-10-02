@@ -2,8 +2,8 @@
 
 ## Contents
 
--[] WEEK - 1 \
--[] WEEK - 2 \
+-[x] WEEK - 1 \
+-[x] WEEK - 2 \
 -[] WEEK - 3 \
 -[] WEEK - 4\
 -[] WEEK - 5\
