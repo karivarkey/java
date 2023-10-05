@@ -43,7 +43,7 @@ public class matrix {
 
         for (i = 0; i < column; i++) {
             for (j = 0; j < row; j++) {
-                System.out.print(sum[i][j]);
+                System.out.print(sum[j][i] + "\t");
             }
             System.out.println("");
         }
