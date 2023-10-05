@@ -39,5 +39,13 @@ public class matrix {
             }
             System.out.println("");
         }
+        System.out.println("Transpose of the sum matrix : ");
+
+        for (i = 0; i < column; i++) {
+            for (j = 0; j < row; j++) {
+                System.out.print(sum[i][j]);
+            }
+            System.out.println("");
+        }
     }
 }
